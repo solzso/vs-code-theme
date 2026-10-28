@@ -1,0 +1,74 @@
+{
+  "name": "lilt",
+  "displayName": "Lilt",
+  "description": "Six soft, pink-accented color themes for VS Code: Lilt, Lilt Pro, Lilt Soft, Lilt Warm, Lilt X and Lilt Light.",
+  "version": "0.0.1",
+  "publisher": "zso-Rose",
+  "author": {
+    "name": "zso"
+  },
+  "license": "MIT",
+  "icon": "images/logo.png",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "dark",
+    "light",
+    "pink",
+    "purple",
+    "lilt"
+  ],
+  "galleryBanner": {
+    "color": "#1C1426",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/solzso/vs-code-theme.git",
+    "directory": "lilt"
+  },
+  "bugs": {
+    "url": "https://github.com/solzso/vs-code-theme/issues"
+  },
+  "homepage": "https://github.com/solzso/vs-code-theme/tree/HEAD/lilt#readme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lilt",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lilt-color-theme.json"
+      },
+      {
+        "label": "Lilt Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lilt-pro-color-theme.json"
+      },
+      {
+        "label": "Lilt Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lilt-soft-color-theme.json"
+      },
+      {
+        "label": "Lilt Warm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lilt-warm-color-theme.json"
+      },
+      {
+        "label": "Lilt X",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lilt-x-color-theme.json"
+      },
+      {
+        "label": "Lilt Light",
+        "uiTheme": "vs",
+        "path": "./themes/lilt-light-color-theme.json"
+      }
+    ]
+  }
+}
