@@ -52,6 +52,7 @@
     "editorGutter.modifiedBackground": "#1DA0E2",
     "editorGutter.deletedBackground": "#F02E6E",
     "editorOverviewRuler.border": "#00000000",
+    "modernActivityBarItem.activeForeground": "#E6A1FF",
     "activityBar.background": "#140D1F",
     "activityBar.foreground": "#F8F8F2",
     "activityBar.inactiveForeground": "#F8F8F273",
@@ -82,6 +83,7 @@
     "editorGroupHeader.tabsBackground": "#140D1F",
     "tab.activeBackground": "#100E23",
     "tab.inactiveBackground": "#1E1C31",
+    "tab.activeBorder": "#FF5DA2",
     "tab.activeForeground": "#F8F8F2",
     "tab.inactiveForeground": "#F8F8F28C",
     "tab.border": "#7F789F26",
@@ -175,7 +177,7 @@
     "diffEditor.removedTextBackground": "#F02E6E33",
     "diffEditor.insertedLineBackground": "#2CE5921F",
     "diffEditor.removedLineBackground": "#F02E6E1F",
-    "minimap.background": "#140D1F",
+    "minimap.background": "#231A2D",
     "minimapSlider.background": "#FF5DA226",
     "minimapSlider.hoverBackground": "#FF5DA240",
     "minimapSlider.activeBackground": "#FF5DA259",
@@ -272,9 +274,8 @@
         "support.function",
         "meta.function-call",
         "variable.function",
-        "entity.name.function.member", 
+        "entity.name.function.member",
         "meta.use.rust"
-        
       ],
       "settings": {
         "foreground": "#91DDFF"
@@ -319,21 +320,21 @@
         "foreground": "#D4BFFF"
       }
     },
-     {
+    {
       "scope": "entity.name.type",
       "settings": {
         "foreground": "#D4BFFF"
       }
     },
     {
-  "name": "Enum members",
-  "scope": [
-    "variable.other.enummember"
-  ],
-  "settings": {
-    "foreground": "#F5C2E7"
-  }
-}, 
+      "name": "Enum members",
+      "scope": [
+        "variable.other.enummember"
+      ],
+      "settings": {
+        "foreground": "#F5C2E7"
+      }
+    },
     {
       "name": "HTML Tags",
       "scope": "entity.name.tag.html",
@@ -728,7 +729,7 @@
         "punctuation.definition.variable.shell"
       ],
       "settings": {
-        "foreground": "#F5C2E7"
+        "foreground": "#CBE3E7"
       }
     },
     {
@@ -778,7 +779,7 @@
         "punctuation.definition.variable.php"
       ],
       "settings": {
-        "foreground": "#F5C2E7"
+        "foreground": "#CBE3E7"
       }
     },
     {
@@ -851,7 +852,7 @@
         "fontStyle": "italic"
       }
     },
-     {
+    {
       "scope": [
         "entity.name.namespace"
       ],
@@ -904,7 +905,7 @@
       "foreground": "#CBE3E7"
     },
     "property": {
-      "foreground": "#F5C2E7"
+      "foreground": "#CBE3E7"
     },
     "function": {
       "foreground": "#91DDFF"

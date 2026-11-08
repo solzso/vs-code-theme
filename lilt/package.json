@@ -68,6 +68,17 @@
         "label": "Lilt Light",
         "uiTheme": "vs",
         "path": "./themes/lilt-light-color-theme.json"
+      }, 
+
+      {
+        "label": "Lilt Day",
+        "uiTheme": "vs",
+        "path": "./themes/lilt-day-color-theme.json"
+      }, 
+      {
+        "label": "Lilt Night",
+        "uiTheme": "vs",
+        "path": "./themes/lilt-night-color-theme.json"
       }
     ]
   }

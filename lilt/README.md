@@ -42,6 +42,16 @@
 
 ![Lilt X theme preview](https://raw.githubusercontent.com/solzso/vs-code-theme/HEAD/lilt/images/screenshots/lilt-x.png)
 
+![Lilt Night theme preview](https://raw.githubusercontent.com/solzso/vs-code-theme/HEAD/lilt/images/screenshots/lilt-night.png)
+
+
+![Lilt Day theme preview](https://raw.githubusercontent.com/solzso/vs-code-theme/HEAD/lilt/images/screenshots/lilt-day.png)
+
+
+
+
+
+
 ### Lilt Light
 
 ![Lilt Light theme preview](https://raw.githubusercontent.com/solzso/vs-code-theme/HEAD/lilt/images/screenshots/lilt-light.png)
